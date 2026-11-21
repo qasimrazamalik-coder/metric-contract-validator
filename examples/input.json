@@ -1,0 +1,11 @@
+{
+  "metrics": [
+    {
+      "name": "retention_rate",
+      "owner": "analytics",
+      "grain": "monthly",
+      "numerator": "retained",
+      "denominator": "eligible"
+    }
+  ]
+}

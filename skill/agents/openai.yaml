@@ -1,0 +1,4 @@
+interface:
+  display_name: "Metric Contract Validator"
+  short_description: "Validate KPI definitions for owner, grain, numerator, denominator, filters and change-control m"
+  default_prompt: "Use @metric-contract-validator on my authorized input and return a validated result."
